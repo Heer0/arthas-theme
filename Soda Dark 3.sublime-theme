@@ -1149,6 +1149,23 @@
         "class": "icon_highlight",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
         "layer0.texture": "arthas-theme/Soda Dark/icon-highlight-on.png"
+    },
+
+//
+// THEME FIX FOR BUILD 3065
+//
+
+    {
+       "class": "icon_file_type",
+       "content_margin": [0,0]
+    },
+    {
+       "class": "icon_folder",
+       "content_margin": [0,0]
+    },
+    {
+       "class": "icon_folder_loading",
+       "content_margin": [0,0]
     }
 
 ]
